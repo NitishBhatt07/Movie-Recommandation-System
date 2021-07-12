@@ -5,5 +5,5 @@ pickles==0.1.1
 numpy 
 nltk==3.6.1
 sklearn
-ast
+ast==0.0.2
 jsons==1.4.2
