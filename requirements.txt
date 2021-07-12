@@ -1,6 +1,6 @@
 streamlit
 requests
 pickles==0.1.1
-numpy>=1.9.2
-scikit-learn==0.22.1
-pandas>=0.19
+numpy
+scikit-learn
+pandas
