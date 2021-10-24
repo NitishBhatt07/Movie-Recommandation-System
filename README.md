@@ -27,7 +27,7 @@ https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
   
 ## Screenshots
 ### Movie Recommandation 
-![](images/you-picture.png)
+![](images/movie_recommand.png)
 
 ## Referance Taken From
 - Mainly this project made by Nitish on youtube channel 
